@@ -1,6 +1,6 @@
 # My GitHub Journey
 
-## Goals& echo Short term: get comfortable with GitHub& echo Long term: contribute to real projects
+## Resources& echo - GitHub Docs& echo - freeCodeCamp& echo - The Odin Project
 
 ---
-Entry 13 of 50 | Updated: 12/03/2026  0:59:12.16
+Entry 14 of 50 | Updated: 12/03/2026  0:59:16.14
