@@ -1,6 +1,6 @@
 # My GitHub Journey
 
-## Progress& echo Made good progress today. Committed to learning consistently.
+## Goals& echo Short term: get comfortable with GitHub& echo Long term: contribute to real projects
 
 ---
-Entry 2 of 50 | Updated: 12/03/2026  0:57:50.19
+Entry 3 of 50 | Updated: 12/03/2026  0:57:57.22
