@@ -1,6 +1,6 @@
 # My GitHub Journey
 
-## Log& echo Spent time today organizing my projects and learning workflow.
+## Todo& echo - [ ] Practice commits& echo - [ ] Read about branches& echo - [ ] Explore open source
 
 ---
-Entry 15 of 50 | Updated: 12/03/2026  0:59:27.17
+Entry 16 of 50 | Updated: 12/03/2026  0:59:35.13
