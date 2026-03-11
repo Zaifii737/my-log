@@ -1,6 +1,6 @@
 # My GitHub Journey
 
-## Reflection& echo Getting more comfortable with version control every day.
+## Projects& echo Thinking about starting a small project to practice my skills.
 
 ---
-Entry 17 of 50 | Updated: 12/03/2026  0:59:40.15
+Entry 18 of 50 | Updated: 12/03/2026  0:59:52.18
