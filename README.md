@@ -1,6 +1,6 @@
 # My GitHub Journey
 
-## Notes& echo Updated my learning notes today. Working on understanding Git better.
+## Ideas& echo - Build a personal website& echo - Learn Python basics& echo - Contribute to open source
 
 ---
-Entry 10 of 50 | Updated: 12/03/2026  0:58:52.18
+Entry 11 of 50 | Updated: 12/03/2026  0:58:55.18
