@@ -1,6 +1,6 @@
 # My Log - Season 2
 
-# Versions& echo Keeping track of tool versions and updates here.
+# Tips& echo Small tips that saved me a lot of time this week.
 
 ---
-Update 36 of 50 | 18/03/2026 23:49:24.13
+Update 37 of 50 | 18/03/2026 23:49:30.15
