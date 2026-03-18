@@ -1,6 +1,6 @@
 # My Log - Season 2
 
-# Milestones& echo - Week 1: Setup complete& echo - Week 2: First project& echo - Week 3: Contributions
+# Tech Stack& echo Currently exploring: Git, Solidity, Web3, and more.
 
 ---
-Update 41 of 50 | 18/03/2026 23:50:12.13
+Update 42 of 50 | 18/03/2026 23:50:27.17
