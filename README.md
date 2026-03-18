@@ -1,6 +1,6 @@
 # My Log - Season 2
 
-# Quick Ref& echo A collection of quick references I use daily.
+# My Log - Season 2& echo Back with more notes and discoveries to document.
 
 ---
-Update 39 of 50 | 18/03/2026 23:49:57.18
+Update 40 of 50 | 18/03/2026 23:50:06.25
