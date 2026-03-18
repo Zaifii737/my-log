@@ -1,6 +1,6 @@
-# My GitHub Journey
+# My Log - Season 2
 
-## Notes& echo Updated my learning notes today. Working on understanding Git better.
+# Milestones& echo - Week 1: Setup complete& echo - Week 2: First project& echo - Week 3: Contributions
 
 ---
-Entry 50 of 50 | Updated: 12/03/2026  1:03:52.15
+Update 1 of 50 | 18/03/2026 23:43:12.71
