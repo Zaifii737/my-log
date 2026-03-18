@@ -1,6 +1,6 @@
 # My Log - Season 2
 
-# My Log - Season 2& echo Back with more notes and discoveries to document.
+# Milestones& echo - Week 1: Setup complete& echo - Week 2: First project& echo - Week 3: Contributions
 
 ---
-Update 20 of 50 | 18/03/2026 23:46:36.16
+Update 21 of 50 | 18/03/2026 23:46:42.13
